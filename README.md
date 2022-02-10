@@ -7,14 +7,14 @@
 
 - 🌱 I’m currently learning **Mechine learning course**
 
-- 💬 Ask me about **Html,Css,Js,Py**
+- 💬 Ask me about **Html,Css,Js,Py,C**
 
 - 📫 How to reach me **venkatavijayabhaskarvadada007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/rishi_kumar_vadada07" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="rishi_kumar_vadada07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/VVV_BHASKAR007" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="VVV_BHASKAR007" height="30" width="30" /></a>
+<a href="https://instagram.com/rishi_kumar_vadada07" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="rishi_kumar_vadada07" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/VVV_BHASKAR007" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="VVV_BHASKAR007" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
