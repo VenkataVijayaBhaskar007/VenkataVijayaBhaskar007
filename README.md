@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm V.Venkata_Vijaya_Bhaskar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"><i>A commited and passonate Front-End Developer, who is eager to learn new Technologies</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatavijayabhaskar007&label=Profile%20views&color=0e75b6&style=flat" alt="venkatavijayabhaskar007" /> </p>
 
