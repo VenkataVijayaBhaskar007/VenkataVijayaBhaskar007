@@ -32,7 +32,7 @@
 <a href="https://www.python.org" target="_blank" > <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_new"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_new"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" align="down" alt="php" width="40" height="40"/> </a>                   
+<a href="https://www.php.net" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/> </a>                   
 
 
 
