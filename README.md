@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatavijayabhaskar007&label=Profile%20views&color=0e75b6&style=flat" alt="venkatavijayabhaskar007" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%230204FD&size=47&duration=5100&center=true&vCenter=true&multiline=true&width=2500&height=280&lines=Myself+Venkata+Vijaya+Bhaskar...;I'm+currently+Pursuing+B.tech+from+Rajiv+Gandhi+University+Of+Knowledge+Technologies+(Nuzvid).;I+have+kept+intrested+in+programming+and+learn+new+technologies+to+keep+on+updating+myself.;I'm+currently+learning+Machine+learning+course.;Ask+me+about+Html+CSS+Js+Python+and+C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23FFFFFF&size=47&duration=5100&center=true&vCenter=true&multiline=true&width=2500&height=280&lines=Myself+Venkata+Vijaya+Bhaskar...;I'm+currently+Pursuing+B.tech+from+Rajiv+Gandhi+University+Of+Knowledge+Technologies+(Nuzvid).;I+have+kept+intrested+in+programming+and+learn+new+technologies+to+keep+on+updating+myself.;I'm+currently+learning+Machine+learning+course.;Ask+me+about+Html+CSS+Js+Python+and+C)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
