@@ -11,6 +11,7 @@
 <a href="https://instagram.com/rishi_kumar_vadada07" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="rishi_kumar_vadada07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/VVV_BHASKAR007" target="_new"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="VVV_BHASKAR007" height="30" width="30" /></a>
 </p>
+<a href="https://mail.google.com/venkatavijayabhaskarvadada007@gmail.com" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="venkatavijayabhaskarvadada007@gmail.com" height="30" width="40" /></a>
 
 * **💬If you have any Queries/Feedback don't hesitate to reach me out!**
 
@@ -25,7 +26,7 @@
   
   
   
-<h4> -Back-end:</h4> 
+<h4> Back-end:</h4> 
 
 
 <a href="https://www.python.org" target="_blank" > <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a>
