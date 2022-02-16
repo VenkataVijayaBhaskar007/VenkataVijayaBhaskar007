@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=47&duration=5100&center=true&vCenter=true&multiline=true&width=2500&height=350&lines=Hi+I'm+Venkata+Vijaya+Bhaskar...;I'm+an+Engineering+student+at+RGUKT-NUZVID%2CPursuing+B.tech+3rd+Year+in+Civil+Engineering.;Apart+from+my+field+I+would+love+to+do+programming+and+learn+new+technologies.;I'm+currently+learning+Machine+learning+course.;Ask+me+about+Html%2CCSS%2CJs%2CPython%2CC)](https://git.io/typing-svg)
 
-</br>
-
-
-                     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rishi_kumar_vadada07" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="rishi_kumar_vadada07" height="30" width="40" /></a>
