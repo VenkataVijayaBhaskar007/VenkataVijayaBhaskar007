@@ -13,7 +13,7 @@
 </p>
 <a href="https://mail.google.com/venkatavijayabhaskarvadada007@gmail.com" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="venkatavijayabhaskarvadada007@gmail.com" height="30" width="40" /></a>
 
-* **💬If you have any Queries/Feedback don't hesitate to reach me out!**
+* **💬If you have any Queries/Feedback don't hesitate to reach me out! at<link> venkatavijayabhaskarvadada007@gmail.com</link>**
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Front-end: </h4>
