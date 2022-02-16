@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm V.Venkata_Vijaya_Bhaskar</h1>
-<h3 align="center"><i>A commited and passonate Front-End Developer, who is eager to learn new Technologies</i></h3>
+<h1 align="center">Hi There👋 <p>Welcome to my GitHub profile!</p></h1>
 
-<h3 align="left"> About me:</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=47&duration=5100&center=true&vCenter=true&multiline=true&width=2500&height=350&lines=Hi+I'm+Venkata+Vijaya+Bhaskar...;I'm+an+Engineering+student+at+RGUKT-NUZVID%2CPursuing+B.tech+3rd+Year+in+Civil+Engineering.;Apart+from+my+field+I+would+love+to+do+programming+and+learn+new+technologies.;I'm+currently+learning+Machine+learning+course.;Ask+me+about+Html%2CCSS%2CJs%2CPython%2CC)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Mechine learning course**
-
-- 💬 Ask me about **Html,Css,Js,Py,C**
+</br>
 
 - 📫 How to reach me **venkatavijayabhaskarvadada007@gmail.com** 
                      
