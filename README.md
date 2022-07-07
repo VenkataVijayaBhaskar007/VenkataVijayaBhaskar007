@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23FF6700&size=70&duration=3000&center=true&vCenter=true&multiline=true&width=2500&height=550&lines=Myself+Venkata+Vijaya+Bhaskar.;I'm+currently+Pursuing+B.tech+from+RGUKT-NUZVID.;I+have+kept+intrested+in+programming.;I+learn+new+technologies+to+keep+on+updating+myself.;I'm+currently+learning+Mern+stack+(Open+Source).;Ask+me+about+Html+CSS+Js+Python+and+C.;THANK+YOU+.+.+.)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://instagram.com/rishi_kumar_vadada07" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="rishi_kumar_vadada07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/VVV_BHASKAR007" target="_new"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="VVV_BHASKAR007" height="30" width="30" /></a>
@@ -13,8 +13,8 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h4>Front-end: </h4>
+## Languages and Tools:
+### Front-end:
 
 <p align="left"> 
 <a href="https://www.w3schools.com/w3css/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> </a> 
@@ -24,7 +24,7 @@
   
   
   
-<h4> Back-end:</h4> 
+### Back-end: 
 
 
 <a href="https://www.python.org" target="_blank" > <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a>
