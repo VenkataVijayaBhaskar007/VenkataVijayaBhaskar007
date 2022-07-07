@@ -35,7 +35,6 @@
 
 
 
-<h4> Other:</h4>
 <a href="https://opencv.org/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/487px-OpenCV_Logo_with_text_svg_version.svg.png?20130608172504" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" alt="linux" width="40" height="40"/> </a>
