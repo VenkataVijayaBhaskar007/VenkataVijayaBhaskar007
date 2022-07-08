@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23FF6700&size=70&duration=3000&center=true&vCenter=true&multiline=true&width=2500&height=550&lines=Myself+Venkata+Vijaya+Bhaskar.;I'm+currently+Pursuing+B.tech+from+RGUKT-NUZVID.;I+have+kept+intrested+in+programming.;I+learn+new+technologies+to+keep+on+updating+myself.;I'm+currently+learning+Mern+stack+(Open+Source).;Ask+me+about+Html+CSS+Js+Python+and+C.;THANK+YOU+.+.+.)](https://git.io/typing-svg)
 
-## Connect with me:
+## Connect with me
 <p align="left">
 <a href="https://instagram.com/rishi_kumar_vadada07" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="rishi_kumar_vadada07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/VVV_BHASKAR007" target="_new"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="VVV_BHASKAR007" height="30" width="30" /></a>
@@ -13,7 +13,7 @@
 
 </p>
 
-## Languages and Tools:
+## Languages and Tools
 ### Front-end:
 
 <p align="left"> 
@@ -53,8 +53,10 @@
 </p>
 
 ## MY Contribution Graph
+
 ![snake gif](https://github.com/VenkataVijayaBhaskar007/VenkataVijayaBhaskar007/blob/output/github-contribution-grid-snake.gif)
 
 ## MY GitHUB PRofile TROphies
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatavijayabhaskar007" alt="venkatavijayabhaskar007" /></a> </p>
