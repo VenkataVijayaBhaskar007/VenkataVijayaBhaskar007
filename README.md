@@ -11,7 +11,7 @@
 <a href="https://www.hackerrank.com/VVV_BHASKAR007" target="_new"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="VVV_BHASKAR007" height="30" width="30" /></a>
 <a href="https://wa.me/7993611399" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/w/29/whatsapp-icon.svg" alt="VVV_BHASKAR007" height="30" width="30" /></a>
 <a href = "mailto: venkaravijayabhaskarvadada007@gmail.com"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="VVV_BHASKAR007" height="" width="30" /></a>
-<a href="tel: +7993611399p123"><img align="center" src="https://cdn-icons-png.flaticon.com/512/7572/7572096.png" alt="VVV_BHASKAR007" height="20" width="20" /></a>
+<a href="tel:+91123-456-7890"><img align="center" src="https://cdn-icons-png.flaticon.com/512/7572/7572096.png" alt="VVV_BHASKAR007" height="20" width="20" /></a>
 
 </p>
 
