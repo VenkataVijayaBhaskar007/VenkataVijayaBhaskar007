@@ -8,10 +8,10 @@
 
 <p align="left">
 
-<a href="https://wa.me/7993611399" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" alt="VVV_BHASKAR007" height="30" width="30" /></a>
-<a href = "mailto: venkaravijayabhaskarvadada007@gmail.com"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="VVV_BHASKAR007" height="35" width="30" /></a>
-<a href="https://instagram.com/rishi_kumar_vadada07" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="rishi_kumar_vadada07" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/VVV_BHASKAR007" target="_new"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="VVV_BHASKAR007" height="30" width="30" /></a>
+  <a href = "mailto: venkaravijayabhaskarvadada007@gmail.com"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="VVV_BHASKAR007" height="30" width="30" /></a>
+<a href="https://wa.me/7993611399" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="VVV_BHASKAR007" height="30" width="30" /></a>
+<a href="https://instagram.com/rishi_kumar_vadada07" target="_new"><img align="center" src="https://user-images.githubusercontent.com/95356073/178547314-e0b97e81-de3b-4a9c-a922-97380a42d381.png" alt="rishi_kumar_vadada07" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/VVV_BHASKAR007" target="_new"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="VVV_BHASKAR007" height="28" width="30" /></a>
 
 </p>
 
@@ -25,8 +25,8 @@
 <a href="https://www.w3schools.com/w3css/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/react/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="javascript" width="40" height="40"/></a>
 
-  
   
   
 ### Back-end: 
