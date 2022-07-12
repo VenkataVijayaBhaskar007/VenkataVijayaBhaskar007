@@ -64,7 +64,7 @@
 
 
 
-## My Github Profile Trophy
+## My Github Profile Trophies
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatavijayabhaskar007" alt="venkatavijayabhaskar007" /></a> </p>
