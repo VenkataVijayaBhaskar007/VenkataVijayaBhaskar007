@@ -12,6 +12,7 @@
 <a href="https://wa.me/7993611399" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/w/29/whatsapp-icon.svg" alt="VVV_BHASKAR007" height="30" width="30" /></a>
 <a href = "mailto: venkaravijayabhaskarvadada007@gmail.com"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="VVV_BHASKAR007" height="" width="30" /></a>
 <a href="tel:+91123-456-7890" data-rel="external"><img align="center" src="https://cdn-icons-png.flaticon.com/512/7572/7572096.png" alt="VVV_BHASKAR007" height="20" width="20" /></a>
+ <a href="sms:+91123-456-7890" data-rel="external"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2190/2190552.png" alt="VVV_BHASKAR007" height="20" width="20" /></a>
 
 </p>
 
