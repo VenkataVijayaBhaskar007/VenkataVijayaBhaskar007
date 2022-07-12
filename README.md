@@ -8,10 +8,10 @@
 
 <p align="left">
 
-<a href="https://wa.me/7993611399" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-glyph-black.svg" alt="VVV_BHASKAR007" height="30" width="30" /></a>
-<a href = "mailto: venkaravijayabhaskarvadada007@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/482/482948.png?w=740" alt="VVV_BHASKAR007" height="35" width="30" /></a>
-<a href="https://instagram.com/rishi_kumar_vadada07" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-glyph-1.svg" alt="rishi_kumar_vadada07" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/VVV_BHASKAR007" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank-4.svg" alt="VVV_BHASKAR007" height="30" width="30" /></a>
+<a href="https://wa.me/7993611399" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" alt="VVV_BHASKAR007" height="30" width="30" /></a>
+<a href = "mailto: venkaravijayabhaskarvadada007@gmail.com"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="VVV_BHASKAR007" height="35" width="30" /></a>
+<a href="https://instagram.com/rishi_kumar_vadada07" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="rishi_kumar_vadada07" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/VVV_BHASKAR007" target="_new"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="VVV_BHASKAR007" height="30" width="30" /></a>
 
 </p>
 
