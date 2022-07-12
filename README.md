@@ -7,12 +7,11 @@
 ## Connect with me 
 
 <p align="left">
-<a href="https://instagram.com/rishi_kumar_vadada07" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="rishi_kumar_vadada07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/VVV_BHASKAR007" target="_new"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="VVV_BHASKAR007" height="30" width="30" /></a>
-<a href="https://wa.me/7993611399" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/w/29/whatsapp-icon.svg" alt="VVV_BHASKAR007" height="30" width="30" /></a>
-<a href = "mailto: venkaravijayabhaskarvadada007@gmail.com"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="VVV_BHASKAR007" height="" width="30" /></a>
-<a href="tel:+91123-456-7890" data-rel="external"><img align="center" src="https://cdn-icons-png.flaticon.com/512/7572/7572096.png" alt="VVV_BHASKAR007" height="20" width="20" /></a>
-<a href="tel: +917993611399" class="fa fa-phone" aria-hidden="true">click</a>
+
+<a href="https://wa.me/7993611399" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-glyph-black.svg" alt="VVV_BHASKAR007" height="30" width="30" /></a>
+<a href = "mailto: venkaravijayabhaskarvadada007@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/482/482948.png?w=740" alt="VVV_BHASKAR007" height="35" width="30" /></a>
+<a href="https://instagram.com/rishi_kumar_vadada07" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-glyph-1.svg" alt="rishi_kumar_vadada07" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/VVV_BHASKAR007" target="_new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank-4.svg" alt="VVV_BHASKAR007" height="30" width="30" /></a>
 
 </p>
 
