@@ -1,4 +1,5 @@
-<h1 align="center">Hie There<img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="40" width="40"> <p>Welcome to my GitHub profile!</p></h1>
+<h1 align="center">Hie There<img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="40" width="40"> 
+<p >Welcome to my GitHub :octocat: profile!</p></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatavijayabhaskar007&label=Profile%20views&color=0e75b6&style=flat" alt="venkatavijayabhaskar007" /> </p>
 
