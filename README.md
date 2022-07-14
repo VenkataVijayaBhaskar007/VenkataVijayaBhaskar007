@@ -19,7 +19,7 @@
 </p>
 
 
-## Languages and Tools I'm familiar with.
+## Languages and Tools I'm familiar with
 
 
 ### Front-end:
