@@ -1,11 +1,14 @@
 <h1 align="center">Hie There<img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="40" width="40"> 
-<p >Welcome to my GitHub <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" align="center" height="30" width="30">  profile!
+<p >Welcome to my GitHub <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" align="center" height="30" width="30">  profile!</p></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatavijayabhaskar007&label=Profile%20views&color=0e75b6&style=flat" alt="venkatavijayabhaskar007" />
 </p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23FF6700&size=70&duration=3000&center=true&vCenter=true&multiline=true&width=2500&height=550&lines=Myself+Venkata+Vijaya+Bhaskar.;I'm+currently+Pursuing+B.tech+from+RGUKT-NUZVID.;I+have+kept+intrested+in+programming.;I+learn+new+technologies+to+keep+on+updating+myself.;I'm+currently+learning+Mern+stack+(Open+Source).;Ask+me+about+Html+CSS+Js+Python+and+C.;THANK+YOU+.+.+.)](https://git.io/typing-svg)
+
+
+
 
 ## Connect With Me 
 
