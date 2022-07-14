@@ -78,6 +78,6 @@
   ![](https://github-readme-stats.vercel.app/api?username=VenkataVijayaBhaskar007&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataVijayaBhaskar007&theme=black)
 
-## Random joke generator
+## Random joke Generator
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
