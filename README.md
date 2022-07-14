@@ -72,3 +72,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatavijayabhaskar007" alt="venkatavijayabhaskar007" /></a> </p>
+
+
+![](https://github-readme-stats.vercel.app/api?username=VenkataVijayaBhaskar007&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataVijayaBhaskar007&theme=blue-green)
