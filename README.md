@@ -5,7 +5,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23FF6700&size=70&duration=3000&center=true&vCenter=true&multiline=true&width=2500&height=550&lines=Myself+Venkata+Vijaya+Bhaskar.;I'm+currently+Pursuing+B.tech+from+RGUKT-NUZVID.;I+have+kept+intrested+in+programming.;I+learn+new+technologies+to+keep+on+updating+myself.;I'm+currently+learning+Mern+stack.;Ask+me+about+Html+CSS+Js+Python+and+C.;THANK+YOU+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23FF6700&size=70&duration=3000&center=true&vCenter=true&multiline=true&width=2500&height=550&lines=Myself+Venkata+Vijaya+Bhaskar.;I'm+currently+Pursuing+B.tech+on+RGUKT-NUZVID.;I+have+kept+intrested+to+do+programming.;I+learn+new+technologies+to+keep+on+updating+myself.;I'm+currently+learning+Mern+stack.;Ask+me+about+Html+CSS+Js+Python+and+C.;THANK+YOU+.+.+.)](https://git.io/typing-svg)
 
 
 
