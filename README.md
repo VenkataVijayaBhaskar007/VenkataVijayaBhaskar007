@@ -10,7 +10,7 @@
 
 
 
-## Connect With Me  <a href = "mailto: venkaravijayabhaskarvadada007@gmail.com"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="VVV_BHASKAR007" height="30" width="30" /></a>
+## Connect With Me  
 
 <p align="left">
 
