@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatavijayabhaskar007&label=Profile%20views&color=0e75b6&style=flat" alt="venkatavijayabhaskar007" />
 </p>
 
-<p align="center"><img height="500" width="100%" align="center" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" />
+<p align="center"><img align="center" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" />
 </p>
 
 
