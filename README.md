@@ -11,7 +11,7 @@
 ## 👨🏻‍💻 About Me:
 
 
-<img  src="programmer1.gif" height="290px" align="right" />
+<img  src="programmer1.gif"  align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://soumya-jit.tech/)**
 
