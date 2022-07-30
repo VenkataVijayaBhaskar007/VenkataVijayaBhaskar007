@@ -7,6 +7,8 @@
 <p align="center"><img align="center" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" />
 </p>
 
+## About Me
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23FF6700&size=70&duration=3000&center=true&vCenter=true&multiline=true&width=2500&height=550&lines=Myself+Venkata+Vijaya+Bhaskar.;I'm+currently+Pursuing+B.tech+in+RGUKT-NUZVID.;I+have+kept+intrested+to+do+programming.;I+learn+new+technologies+to+keep+on+updating+myself.;I'm+currently+learning+Mern+stack.;Ask+me+about+Html+CSS+Js+Python+and+C.;THANK+YOU+.+.+.)](https://git.io/typing-svg)
 
