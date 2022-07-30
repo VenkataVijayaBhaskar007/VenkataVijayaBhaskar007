@@ -1,8 +1,12 @@
 <h1 align="center">Hie There<img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="40" width="40"> 
 <p >Welcome to my GitHub <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" align="center" height="30" width="30">  profile!</p></h1>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatavijayabhaskar007&label=Profile%20views&color=0e75b6&style=flat" alt="venkatavijayabhaskar007" />
 </p>
+
+
 
 <p align="center"><img align="center" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" />
 </p>
