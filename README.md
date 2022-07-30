@@ -8,7 +8,7 @@
 
 
 
-<p align="center"><img align="center" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" />
+<p align="center"><img align="center" src="programmer1.gif" />
 </p>
 
 ## About Me
