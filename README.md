@@ -5,6 +5,10 @@
 </p>
 
 
+![programmer1](https://user-images.githubusercontent.com/95356073/181909459-0220adaf-1e1d-4b45-9472-43f54c842901.gif)
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23FF6700&size=70&duration=3000&center=true&vCenter=true&multiline=true&width=2500&height=550&lines=Myself+Venkata+Vijaya+Bhaskar.;I'm+currently+Pursuing+B.tech+in+RGUKT-NUZVID.;I+have+kept+intrested+to+do+programming.;I+learn+new+technologies+to+keep+on+updating+myself.;I'm+currently+learning+Mern+stack.;Ask+me+about+Html+CSS+Js+Python+and+C.;THANK+YOU+.+.+.)](https://git.io/typing-svg)
 
 
