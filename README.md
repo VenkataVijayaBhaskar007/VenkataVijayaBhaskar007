@@ -8,16 +8,26 @@
 
 
 
-<div align="center">
-  <img src ="programmer1.gif" />
-  
-</div>
-
-## About Me
+## 👨🏻‍💻 About Me:
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23FF6700&size=70&duration=3000&center=true&vCenter=true&multiline=true&width=2500&height=550&lines=Myself+Venkata+Vijaya+Bhaskar.;I'm+currently+Pursuing+B.tech+in+RGUKT-NUZVID.;I+have+kept+intrested+to+do+programming.;I+learn+new+technologies+to+keep+on+updating+myself.;I'm+currently+learning+Mern+stack.;Ask+me+about+Html+CSS+Js+Python+and+C.;THANK+YOU+.+.+.)](https://git.io/typing-svg)
+<img  src="programmer1.gif" height="290px" align="right" />
 
+- 🙋‍♂️ All about me is at **[My Website](https://soumya-jit.tech/)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games
 
 
 
@@ -79,6 +89,17 @@
 
 
 ![snake gif](https://github.com/VenkataVijayaBhaskar007/VenkataVijayaBhaskar007/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+## 📊 My GitHub Data:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
+</div>
+
 
 
 
