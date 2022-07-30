@@ -1,5 +1,5 @@
-<h1 align="center">Hie There<img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="40" width="40"> 
-<p >Welcome to my GitHub <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" align="center" height="30" width="30">  profile!</p></h1>
+<h1 align="center">Hello<img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="40" width="40"> 
+<p > I'm Venkata Vijaya Bhaskar</p></h1>
 
 
 
@@ -11,9 +11,9 @@
 ## 👨🏻‍💻 About Me:
 
 
-<img  src="programmer1.gif"  align="right" />
+<img  src="programmer1.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumya-jit.tech/)**
+- 🙋‍♂️ All about me is at **[My Website](https://example.com/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -31,7 +31,7 @@
 
 
 
-## Connect With Me  
+## 🌐 Connect With Me  
 
 <p align="left">
 
@@ -43,7 +43,7 @@
 </p>
 
 
-## Languages and Tools I'm familiar with
+## 🛠️ Technologies and Tools I use:
 
 
 ### Front-end:
@@ -85,25 +85,28 @@
 </p>
 
 
-## My Contribution Graph
+## 📈 My Contribution Graph
 
-
+<div align="center">
+  
 ![snake gif](https://github.com/VenkataVijayaBhaskar007/VenkataVijayaBhaskar007/blob/output/github-contribution-grid-snake.gif)
 
-
+</div>
 
 
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=VenkataVijayaBhaskar007&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VenkataVijayaBhaskar007&" alt="VenkataVijayaBhaskar" />
 </div>
 
 
 
 
-## My Github Profile Trophies
+## 🏆 My Github Profile Trophies
 
+<div align = "center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatavijayabhaskar007" alt="venkatavijayabhaskar007" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatavijayabhaskar007" alt="venkatavijayabhaskar007" /></a> 
+  </div>
