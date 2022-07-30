@@ -8,8 +8,10 @@
 
 
 
-<p align="center"><img align="center" src="programmer1.gif" />
-</p>
+<div align="center">
+  <img src ="programmer1.gif" />
+  
+</div>
 
 ## About Me
 
