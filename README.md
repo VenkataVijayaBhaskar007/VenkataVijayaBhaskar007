@@ -8,9 +8,11 @@
 
 
 
+<div>
+
 <img  src="banner1.gif" width = "100%" >
 
-
+</div>
 
 
 
