@@ -8,7 +8,7 @@
 
 
 
-<img  src="banner1.gif" width="1080px">
+<img  src="banner1.gif" width = "100%" >
 
 
 
