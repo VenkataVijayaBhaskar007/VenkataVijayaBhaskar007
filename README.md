@@ -6,7 +6,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=venkatavijayabhaskar007&label=Profile%20views&color=0e75b6&style=flat" alt="venkatavijayabhaskar007"/>
 </p>
 
+<div>
 
+<img  src="banner1.gif" width = "100%" >
+
+</div>
 
 
 
