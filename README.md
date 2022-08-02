@@ -94,7 +94,7 @@
 </p>
 
 
-## 📈 My Contribution Graph
+## 📈 My Contribution Graph:
 
 <div align="center">
   
