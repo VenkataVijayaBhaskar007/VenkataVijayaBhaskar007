@@ -40,7 +40,7 @@
 
 
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me:
 
 <p align="left">
 
@@ -113,7 +113,7 @@
 
 
 
-## 🏆 My Github Profile Trophies
+## 🏆 My Github Profile Trophies:
 
 <div align = "center">
 
