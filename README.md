@@ -24,7 +24,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://example.com/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Learning new technologies`.
 
 - 🌱 I’m currently learning `MERN Stack`
 
