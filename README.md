@@ -24,7 +24,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://example.com/)**
 
-- ❤️ I love writing code 👨🏻‍💻 and reading 📖 about it.
+- ❤️ I love writing code and reading about it 
 
 - 🌱 I’m currently learning `MERN Stack`
 
