@@ -26,13 +26,13 @@
 
 - 🔭 I’m currently working on `Learning new Programming languages`
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently concentrating on `MERN Stack`
 
 - 👯 I’m looking to collaborate for `My Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me about anything, Except My Grades :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
