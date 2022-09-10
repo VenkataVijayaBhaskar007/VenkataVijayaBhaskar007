@@ -24,7 +24,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://example.com/)**
 
-- 🔭 I’m currently working on `Learning new Programming languages`.
+- 🔭 I’m currently working on `Learning new Programming languages`
 
 - 🌱 I’m currently learning `MERN Stack`
 
@@ -36,7 +36,7 @@
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time watching Fictional movies & Anime
+- ⚡ Fun fact: I waste most of my time watching Anime
 
 
 
