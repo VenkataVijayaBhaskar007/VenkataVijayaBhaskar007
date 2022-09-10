@@ -24,11 +24,11 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://example.com/)**
 
-- 🔭 I’m currently working on `Learning new technologies`.
+- 🔭 I’m currently working on `Learning new Programming languages`.
 
 - 🌱 I’m currently learning `MERN Stack`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate for `My Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
@@ -36,7 +36,7 @@
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: I waste most of my time watching Fictional movies & Anime
 
 
 
