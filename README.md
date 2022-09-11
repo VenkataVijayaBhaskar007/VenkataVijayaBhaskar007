@@ -17,7 +17,7 @@
 
 
 
-## 👨🏻‍💻 About Me:
+## 🧑🏻‍🎓 About Me:
 
 
 <img  src="programmer1.gif" height="290px" align="right" />
