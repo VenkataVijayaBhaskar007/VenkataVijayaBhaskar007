@@ -1,5 +1,5 @@
 <h1 align="center">Hello<img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" height="40" width="40"> 
-<p > I'm Venkata Vijaya Bhaskar</p></h1>
+<p > Welcome to my GITHUB Profile</p></h1>
 
 
 
