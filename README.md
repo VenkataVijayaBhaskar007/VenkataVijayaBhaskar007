@@ -34,7 +34,7 @@
 
 - 💬 Ask me about anything, Except My Grades :sweat_smile:
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Life Hack: Always try to learn new skills :fire: and share what you have learned to everyone :tada:
 
 - ⚡ Fun fact: I waste most of my time watching Anime🫰🏻
 
