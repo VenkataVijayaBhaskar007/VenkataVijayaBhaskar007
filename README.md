@@ -32,7 +32,7 @@
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-- 💬 Ask me about anything, Except My Grades :sweat_smile:
+- 💬 Ask me about anything! Except My Grades :sweat_smile:
 
 - 👨‍💻 Life Hack: Always try to learn new skills :fire: and share what you have learned to everyone :tada:
 
