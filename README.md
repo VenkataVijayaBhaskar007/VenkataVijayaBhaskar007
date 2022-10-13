@@ -22,7 +22,7 @@
 
 <img  src="programmer1.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://example.com/)** (updated soon)
+- 🙋‍♂️ All about me is at **[My Website](https://example.com/)** (updated...)
 
 - ❤️ I love writing code and reading about it 
 
