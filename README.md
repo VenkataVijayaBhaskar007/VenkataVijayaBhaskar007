@@ -22,7 +22,7 @@
 
 <img  src="programmer1.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://react-portfolio-venkatavijayabhaskar007.vercel.app/)** 
+- 🙋‍♂️ know more about me ----> **[My Website](https://react-portfolio-venkatavijayabhaskar007.vercel.app/)** 
 
 - ❤️ I love writing code and reading about it 
 
@@ -36,7 +36,7 @@
 
 - 👨‍💻 Life Hack: Always try to learn new skills :fire: and share what you have learned to everyone :tada:
 
-- ⚡ Fun fact: I waste most of my time watching Anime🫰🏻
+- ⚡ Fun fact: Early birds catch more oxygen; trees produce extra in the morning. 
 
 
 
