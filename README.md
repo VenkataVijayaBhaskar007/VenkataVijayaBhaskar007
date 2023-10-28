@@ -26,7 +26,7 @@
 
 - ❤️ I love writing code and reading about it 
 
-- 🌱 I’m currently learning `MERN Stack` (suggest me if you found any better sourses to learn) <a href="https://wa.me/7993611399" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="VVV_BHASKAR007" height="30" width="30" /></a>
+- 🌱 I’m currently learning `MERN Stack` (suggest me if you found any better sourses to learn) <a href="https://wa.me/7993611399" target="_blank"> whatsapp ---><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="VVV_BHASKAR007" height="30" width="30" /></a>
 
 - 👯 I’m looking to collaborate for `My Projects`
 
