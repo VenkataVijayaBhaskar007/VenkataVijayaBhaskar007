@@ -26,7 +26,7 @@
 
 - ❤️ I love writing code and reading about it 
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `MERN Stack` (suggest me if you found any better sourses to learn)
 
 - 👯 I’m looking to collaborate for `My Projects`
 
